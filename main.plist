@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://m.hxyxt.com/ios/icon@2x.png</string>
+<string>http://www.sipyun.com/APP/512.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://m.hxyxt.com/ios/icon.png</string>
+<string>http://www.sipyun.com/APP/57.png</string>
 </dict>
 </array>
 <key>metadata</key>
